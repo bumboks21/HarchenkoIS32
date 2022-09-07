@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\Authorization\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\пк\source\repos\Authorization\Authorization\bin\Debug\Authorization.exe
+C:\Users\пк\source\repos\Authorization\Authorization\bin\Debug\Authorization.pdb
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\MainWindow.g.cs
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\App.g.cs
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization_MarkupCompile.cache
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization_MarkupCompile.lref
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\MainWindow.baml
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.g.resources
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.exe
+C:\Users\пк\source\repos\Authorization\Authorization\obj\Debug\Authorization.pdb
